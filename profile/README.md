@@ -1,8 +1,9 @@
 <div align="center">
-  <img src="banner.png" width="800" alt="revel">
+  <a href="https://revelstudios.net">
+    <img src="banner.png" width="600" alt="Revel Studios">
+  </a>
 
-  # revel.
-  ### low profile. high impact.
+  We are a studio focused on Minecraft modding, game design, and high-performance software.
 
   <br/>
 
