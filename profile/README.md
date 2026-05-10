@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="logo.png" width="120" alt="Revel Studios">
+  <img src="logo.png" width="120" alt="revel">
 
-  # Revel Studios
-  **Engineering excellence at the speed of thought.**
-
-  `Ship Fast` • `Stay Lean` • `Build Different`
+  # revel.
+  ### low profile. high impact.
 
   ---
 
-  [revelstudios.net](https://revelstudios.net) &nbsp; | &nbsp; [contact@revelstudios.net](mailto:contact@revelstudios.net)
+  [website](https://revelstudios.net) &nbsp; • &nbsp; [discord](https://discord.gg/WE4vFTRwcV) &nbsp; • &nbsp; [instagram](https://www.instagram.com/revelstudios.official/) &nbsp; • &nbsp; [x](https://x.com/RevelStudiosX) &nbsp; • &nbsp; [github](https://github.com/Revel-Studios) &nbsp; • &nbsp; [modrinth](https://modrinth.com/organization/revel)
 </div>
