@@ -1,5 +1,12 @@
-Find our releases in the links below:
+<div align="center">
+  <img src="logo.png" width="120" alt="Revel Studios">
 
-[revelstudios.net](https://revelstudios.net)
+  # Revel Studios
+  **Engineering excellence at the speed of thought.**
 
-[contact@revelstudios.net](mailto:contact@revelstudios.net)
+  `Ship Fast` • `Stay Lean` • `Build Different`
+
+  ---
+
+  [revelstudios.net](https://revelstudios.net) &nbsp; | &nbsp; [contact@revelstudios.net](mailto:contact@revelstudios.net)
+</div>
