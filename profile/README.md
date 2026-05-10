@@ -20,4 +20,6 @@
   [![Modrinth](https://img.shields.io/badge/Modrinth-000?style=flat-square&logo=modrinth&logoColor=white)](https://modrinth.com/organization/revel)
   &nbsp;
   [![Email](https://img.shields.io/badge/Email-000?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@revelstudios.net)
+  <br/>
+  <sub>&copy; 2026 Revel Studios. All rights reserved.</sub>
 </div>
