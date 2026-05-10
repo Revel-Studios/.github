@@ -3,7 +3,7 @@
     <img src="banner.png" width="600" alt="Revel Studios">
   </a>
 
-  ### "Simply better digital experiences."
+  ### "Building digital experiences we actually care about."
 
   <br/>
 
