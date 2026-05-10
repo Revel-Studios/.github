@@ -3,7 +3,7 @@
     <img src="banner.png" width="600" alt="Revel Studios">
   </a>
 
-  We are a studio focused on Minecraft modding, game design, and high-performance software.
+  ### "Simply better digital experiences."
 
   <br/>
 
