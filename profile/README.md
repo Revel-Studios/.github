@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="revel">
+  <img src="banner.png" width="800" alt="revel">
 
   # revel.
   ### low profile. high impact.
